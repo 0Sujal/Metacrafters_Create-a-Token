@@ -1,4 +1,4 @@
-# MetaMetacrafters_Create-a-Token
+# Metacrafters_Create-a-Token
 This is a solidity program MyToken contract is designed to serve as a basic implementation of a token contract on the Ethereum blockchain. Its purpose is to provide a foundation for creating and managing tokens within a decentralized application (DApp) or smart contract ecosystem.
 # MyToken Contract
 The MyToken contract is a simple implementation of a token contract on the Ethereum blockchain. It provides basic functionality for creating, minting, and burning tokens. This contract serves as a starting point for developers looking to create their own token system within a decentralized application (DApp) or smart contract project.
