@@ -11,7 +11,7 @@ Burning Tokens: The contract provides a function to burn tokens, reducing the to
 Validation: The burn function includes conditionals to ensure that the address has a sufficient token balance before burning.
 # Getting Started
 To use the MyToken contract in your project, follow these steps:
-Clone the repository to your local machine: https://github.com/VinayKumar2004/Project-Create-a-Token/blob/main/mytoken.sol
+Clone the repository to your local machine: https://github.com/0Sujal/Metacrafters_Create-a-Token/blob/main/MyToken.sol
 # Executing program
 Compile the contract using a Solidity compiler of your choice.
 Deploy the contract to an Ethereum network using a development tool like Remix, Truffle, or Hardhat.
